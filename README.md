@@ -23,17 +23,69 @@ The projects here are designed to demonstrate:
 * NumPy
 * Matplotlib
 * Google Colab
+* Jupyter Notebook
 * GitHub
 
 ## Repository Structure
 
 ```text
 /data
+```
+
+Contains datasets used for analysis projects, including:
+
+* synthetic maintenance datasets
+* grinder inspection records
+* reporting logs
+* cleaned operational data exports
+
+```text
 /notebooks
+```
+
+Contains Google Colab and Jupyter notebooks used for:
+
+* data cleaning
+* exploratory analysis
+* KPI calculations
+* operational workflow analysis
+* visualization development
+
+```text
 /charts
+```
+
+Contains exported charts and visualizations generated from analysis projects, including:
+
+* compliance trends
+* reporting delay visuals
+* inspection completion summaries
+* operational risk indicators
+
+```text
 /exports
+```
+
+Contains finalized outputs and presentation-ready materials such as:
+
+* PDF summaries
+* exported reports
+* processed datasets
+* dashboard screenshots
+
+```text
 /projects
 ```
+
+Contains individual analytical project folders focused on specific operational or maintenance analysis problems.
+Each project may include:
+
+* datasets
+* notebooks
+* charts
+* project documentation
+* findings summaries
+
 
 ## Current Focus Areas
 
