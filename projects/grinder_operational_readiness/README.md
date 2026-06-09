@@ -37,21 +37,27 @@ The project does not represent:
 ## Repository Structure
 
 /checklist
+
 Contains grinder pre-use inspection checklist documents used as the operational reference framework for the project.
 
 /dataset
+
 Contains synthetic grinder inspection records used for prototype operational analysis and workflow testing.
 
 /prompt
+
 Contains AI prompts used to generate synthetic datasets and support reproducible analytical workflows.
 
 /notebook
+
 Contains Google Colab and Jupyter notebooks used for data cleaning, analysis, and visualization.
 
 /charts
+
 Contains exported charts and visual summaries generated from analysis findings.
 
 /findings
+
 Contains short analytical summaries, observations, and operational insights derived from the dataset analysis.
 
 ## Analytical Focus Areas
