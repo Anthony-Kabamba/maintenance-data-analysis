@@ -24,9 +24,18 @@ The projects here are designed to demonstrate:
 * Matplotlib
 * Google Colab
 * Jupyter Notebook
+* SQL
 * GitHub
 
 ## Repository Structure
+
+
+```text
+/projects
+```
+
+Contains individual analytical project folders focused on specific operational or maintenance analysis problems.
+Each project may include:
 
 ```text
 /data
@@ -61,6 +70,9 @@ Contains exported charts and visualizations generated from analysis projects, in
 * reporting delay visuals
 * inspection completion summaries
 * operational risk indicators
+* project documentation
+* findings summaries
+
 
 ```text
 /exports
@@ -72,20 +84,6 @@ Contains finalized outputs and presentation-ready materials such as:
 * exported reports
 * processed datasets
 * dashboard screenshots
-
-```text
-/projects
-```
-
-Contains individual analytical project folders focused on specific operational or maintenance analysis problems.
-Each project may include:
-
-* datasets
-* notebooks
-* charts
-* project documentation
-* findings summaries
-
 
 ## Current Focus Areas
 
@@ -104,7 +102,6 @@ Each project may include:
 * Which operational shifts show the highest inspection non-compliance?
 * What indicators suggest elevated operational or safety risk?
 * Where do workshop reporting bottlenecks occur most often?
-
 
 ## Status
 
